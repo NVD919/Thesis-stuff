@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 31 00:40:42 2018
 
-@author: Arevalo, Robot Hands
+@author: Robot Hands
 """
 
 import numpy as np
