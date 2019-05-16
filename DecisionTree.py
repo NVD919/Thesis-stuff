@@ -3,6 +3,8 @@
 Created on Fri Mar 22 16:03:11 2019
 
 @author: Robot Hands
+
+This is exerything pertaining to the XGBoost model I used for fault detection on an industrial machine
 """
 
 import warnings
